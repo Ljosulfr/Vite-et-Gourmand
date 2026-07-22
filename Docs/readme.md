@@ -7,4 +7,4 @@ Il accueillera notamment:
 - les personas
 - les wireframes
 - les mockups
-- les diagrammes de conception.
+- les typographies.
